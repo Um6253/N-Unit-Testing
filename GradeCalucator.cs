@@ -29,18 +29,18 @@ namespace StudentGrades
 
                     return "C";
                 }
-                else if (percentage >= 60 && percentage <= 70)
-                {
-                    return "D";
-                }
+            else if (percentage >= 60 && percentage <= 70)
+            {
+                return "D";
+            }
 
 
-                else if (percentage >= 0 && percentage <= 60)
-                {
-                    return "F";
-                }
+            else if (percentage >= 0 && percentage <= 60)
+            {
+                return "F";
+            }
 
-                else
+            else
 
                 { return "Invalid"; }
             }
