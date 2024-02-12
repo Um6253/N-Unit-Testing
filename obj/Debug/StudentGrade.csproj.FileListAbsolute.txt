@@ -1,0 +1,2 @@
+C:\Users\MANIKANTA\Desktop\LOCOBUZZ\NUnit Testing\NUnit Testing\obj\Debug\StudentGrade.csproj.AssemblyReference.cache
+C:\Users\MANIKANTA\Desktop\LOCOBUZZ\NUnit Testing\NUnit Testing\obj\Debug\StudentGrade.csproj.CoreCompileInputs.cache
