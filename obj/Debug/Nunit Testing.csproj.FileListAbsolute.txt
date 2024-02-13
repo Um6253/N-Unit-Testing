@@ -1,0 +1,7 @@
+C:\Users\MANIKANTA\Desktop\LOCOBUZZ\Nunit Testing\Nunit Testing\Nunit Testing\bin\Debug\Nunit Testing.exe.config
+C:\Users\MANIKANTA\Desktop\LOCOBUZZ\Nunit Testing\Nunit Testing\Nunit Testing\bin\Debug\Nunit Testing.exe
+C:\Users\MANIKANTA\Desktop\LOCOBUZZ\Nunit Testing\Nunit Testing\Nunit Testing\bin\Debug\Nunit Testing.pdb
+C:\Users\MANIKANTA\Desktop\LOCOBUZZ\Nunit Testing\Nunit Testing\Nunit Testing\obj\Debug\Nunit Testing.csproj.AssemblyReference.cache
+C:\Users\MANIKANTA\Desktop\LOCOBUZZ\Nunit Testing\Nunit Testing\Nunit Testing\obj\Debug\Nunit Testing.csproj.CoreCompileInputs.cache
+C:\Users\MANIKANTA\Desktop\LOCOBUZZ\Nunit Testing\Nunit Testing\Nunit Testing\obj\Debug\Nunit Testing.exe
+C:\Users\MANIKANTA\Desktop\LOCOBUZZ\Nunit Testing\Nunit Testing\Nunit Testing\obj\Debug\Nunit Testing.pdb
