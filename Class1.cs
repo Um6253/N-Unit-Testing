@@ -29,11 +29,11 @@ namespace Nunit_Testing
 
                 return "D";
 
-                else if (percentage >= 0 && percentage <= 60)
+            else if (percentage >= 0 && percentage <= 60)
 
                 return "F";
 
-                else
+            else
 
                 return "Invalid";
         }
